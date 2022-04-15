@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650003992431,642,login/login-261,200,OK,login 2-2,text,true,,470,488,3,8,https://api.demoblaze.com/login,642,0,248
+1650003992346,732,Register/signup-315,200,OK,register 1-2,text,true,,485,485,4,7,https://api.demoblaze.com/signup,732,0,333
+1650003992169,909,Register/signup-315,200,OK,register 1-1,text,true,,713,489,4,7,https://api.demoblaze.com/signup,909,0,510
+1650003992169,1018,login/login-261,200,OK,login 2-1,text,true,,581,489,2,5,https://api.demoblaze.com/login,1012,0,510
+1650003992595,595,Register/signup-315,200,OK,register 1-3,text,true,,581,490,2,4,https://api.demoblaze.com/signup,595,0,130
+1650003992169,1111,login/login-261,200,OK,invalid login 3-1,text,true,,601,483,1,3,https://api.demoblaze.com/login,1110,0,510
+1650003992844,445,Register/signup-315,200,OK,register 1-4,text,true,,692,485,1,2,https://api.demoblaze.com/signup,440,0,94
+1650003992764,603,login/login-261,200,OK,login 2-3,text,true,,607,484,1,1,https://api.demoblaze.com/login,602,0,83
